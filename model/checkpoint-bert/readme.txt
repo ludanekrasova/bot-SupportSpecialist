@@ -1,0 +1,1 @@
+Сюда поместить содержимое папки checkpoint-bert по адресу: https://drive.google.com/drive/folders/137QFnxJwwE_iJhYTfh7YxsAAuYLHcasy?usp=sharing
